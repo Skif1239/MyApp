@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="oblako_name">OBLAKO LOUNGE BAR</string>
+    <string name="oblako_adress">ул. Смелянская, 2 (Хрещатик сити возле магазина Фуршет), Черкассы</string>
+    <string name="oblako_work">Открыто сегодня: </string>
+    <string name="oblako_work_time"> c 13:00 до 1:00</string>
+    <string name="hookah">Кальяны</string>
+    <string name="tea">Чай</string>
+    <string name="oblaco_dop">-</string>
+    <string name="price_hookah">150 грн</string>
+    <string name="price_tea">30 грн</string>
+    <string name="people">Новый клиент</string>
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+    <!--<string name=""></string>-->
+
+</resources>
